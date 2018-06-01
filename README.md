@@ -67,8 +67,7 @@
 24. [Keras in Motion video course](https://www.manning.com/livevideo/keras-in-motion)
 25. [Practical Deep Learning For Coders](http://course.fast.ai/) by Jeremy Howard - Fast.ai
 26. [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/) by Prof. Bhiksha Raj (2017)
-27. [Machine Learning Foundations: Supervised Learning](https://www.experfy.com/training/courses/machine-learning-foundations-supervised-learning) by Peter Chen
-28. [Harvard-based Experfy's Machine Learning online courses](https://www.experfy.com/training/tracks/machine-learning-training-certification) 
+27. [Harvard-based Experfy's Machine Learning online courses](https://www.experfy.com/training/tracks/machine-learning-training-certification) 
 
 ### Videos and Lectures
 
